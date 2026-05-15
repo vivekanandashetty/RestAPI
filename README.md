@@ -6,5 +6,5 @@ Simple API automation framework using:
 - Maven
 
 
-Run command
- mvn clean test
+```markdown
+Run `mvn test` to execute tests.
