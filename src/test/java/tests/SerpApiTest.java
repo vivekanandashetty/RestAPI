@@ -33,11 +33,11 @@ public class SerpApiTest extends BaseTest {
                                 "google_domain",
                                 "google.com"
                         )
-                        
+                        /* 
                         .queryParam(
                                 "api_key",
                                 ConfigReader.getProperty("api.key")
-                        )
+                        )*/
 
                 .when()
 
