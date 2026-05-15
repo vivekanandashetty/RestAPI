@@ -1,0 +1,49 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Test Reports
+test-output/
+allure-results/
+allure-report/
+surefire-reports/
+
+# Environment / Secrets
+config.properties
+.env
+
+# Temporary files
+*.tmp
+*.temp
+
+# Dependency directories
+dependency-reduced-pom.xml
